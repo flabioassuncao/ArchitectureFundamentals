@@ -1,0 +1,17 @@
+C:\MyRepo\ArchitectureFundamentals\src\ProjectB\bin\Debug\netcoreapp3.1\ProjectA.exe
+C:\MyRepo\ArchitectureFundamentals\src\ProjectB\bin\Debug\netcoreapp3.1\ProjectB.exe
+C:\MyRepo\ArchitectureFundamentals\src\ProjectB\bin\Debug\netcoreapp3.1\ProjectB.deps.json
+C:\MyRepo\ArchitectureFundamentals\src\ProjectB\bin\Debug\netcoreapp3.1\ProjectB.runtimeconfig.json
+C:\MyRepo\ArchitectureFundamentals\src\ProjectB\bin\Debug\netcoreapp3.1\ProjectB.runtimeconfig.dev.json
+C:\MyRepo\ArchitectureFundamentals\src\ProjectB\bin\Debug\netcoreapp3.1\ProjectB.dll
+C:\MyRepo\ArchitectureFundamentals\src\ProjectB\bin\Debug\netcoreapp3.1\ProjectB.pdb
+C:\MyRepo\ArchitectureFundamentals\src\ProjectB\bin\Debug\netcoreapp3.1\ProjectA.dll
+C:\MyRepo\ArchitectureFundamentals\src\ProjectB\bin\Debug\netcoreapp3.1\ProjectA.pdb
+C:\MyRepo\ArchitectureFundamentals\src\ProjectB\obj\Debug\netcoreapp3.1\ProjectB.csprojAssemblyReference.cache
+C:\MyRepo\ArchitectureFundamentals\src\ProjectB\obj\Debug\netcoreapp3.1\ProjectB.AssemblyInfoInputs.cache
+C:\MyRepo\ArchitectureFundamentals\src\ProjectB\obj\Debug\netcoreapp3.1\ProjectB.AssemblyInfo.cs
+C:\MyRepo\ArchitectureFundamentals\src\ProjectB\obj\Debug\netcoreapp3.1\ProjectB.csproj.CoreCompileInputs.cache
+C:\MyRepo\ArchitectureFundamentals\src\ProjectB\obj\Debug\netcoreapp3.1\ProjectB.csproj.CopyComplete
+C:\MyRepo\ArchitectureFundamentals\src\ProjectB\obj\Debug\netcoreapp3.1\ProjectB.dll
+C:\MyRepo\ArchitectureFundamentals\src\ProjectB\obj\Debug\netcoreapp3.1\ProjectB.pdb
+C:\MyRepo\ArchitectureFundamentals\src\ProjectB\obj\Debug\netcoreapp3.1\ProjectB.genruntimeconfig.cache

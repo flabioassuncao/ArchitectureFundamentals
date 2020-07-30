@@ -1,0 +1,13 @@
+C:\MyRepo\ArchitectureFundamentals\src\OOP\bin\Debug\netcoreapp3.1\OOP.exe
+C:\MyRepo\ArchitectureFundamentals\src\OOP\bin\Debug\netcoreapp3.1\OOP.deps.json
+C:\MyRepo\ArchitectureFundamentals\src\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.json
+C:\MyRepo\ArchitectureFundamentals\src\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.dev.json
+C:\MyRepo\ArchitectureFundamentals\src\OOP\bin\Debug\netcoreapp3.1\OOP.dll
+C:\MyRepo\ArchitectureFundamentals\src\OOP\bin\Debug\netcoreapp3.1\OOP.pdb
+C:\MyRepo\ArchitectureFundamentals\src\OOP\obj\Debug\netcoreapp3.1\OOP.csprojAssemblyReference.cache
+C:\MyRepo\ArchitectureFundamentals\src\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
+C:\MyRepo\ArchitectureFundamentals\src\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
+C:\MyRepo\ArchitectureFundamentals\src\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CoreCompileInputs.cache
+C:\MyRepo\ArchitectureFundamentals\src\OOP\obj\Debug\netcoreapp3.1\OOP.dll
+C:\MyRepo\ArchitectureFundamentals\src\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
+C:\MyRepo\ArchitectureFundamentals\src\OOP\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache
