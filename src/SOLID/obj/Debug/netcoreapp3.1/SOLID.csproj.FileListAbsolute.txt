@@ -1,0 +1,4 @@
+C:\MyRepo\ArchitectureFundamentals\src\SOLID\bin\Debug\netcoreapp3.1\SOLID.exe
+C:\MyRepo\ArchitectureFundamentals\src\SOLID\obj\Debug\netcoreapp3.1\SOLID.csprojAssemblyReference.cache
+C:\MyRepo\ArchitectureFundamentals\src\SOLID\obj\Debug\netcoreapp3.1\SOLID.AssemblyInfoInputs.cache
+C:\MyRepo\ArchitectureFundamentals\src\SOLID\obj\Debug\netcoreapp3.1\SOLID.AssemblyInfo.cs
