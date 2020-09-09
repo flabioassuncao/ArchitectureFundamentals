@@ -1,5 +1,7 @@
 ﻿using System;
 using DesignPatterns.AbstractFactory;
+using DesignPatterns.FactoryMethod;
+using DesignPatterns.Singleton;
 
 namespace DesignPatterns
 {
@@ -39,12 +41,12 @@ namespace DesignPatterns
                 case '1':
                     ExecutionAbstractFactory.Executar();
                     break;
-                    //case '2':
-                    //    ExecutionFactoryMethod.Executar();
-                    //    break;
-                    //case '3':
-                    //    ExecutionSingleton.Executar();
-                    //    break;
+                case '2':
+                    ExecutionFactoryMethod.Executar();
+                    break;
+                case '3':
+                    ExecutionSingleton.Executar();
+                    break;
                     //case '4':
                     //    ExecutionAdapter.Executar();
                     //    break;
