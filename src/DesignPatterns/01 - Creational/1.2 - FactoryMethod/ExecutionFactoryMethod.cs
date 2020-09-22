@@ -4,7 +4,7 @@ namespace DesignPatterns.FactoryMethod
 {
     class ExecutionFactoryMethod
     {
-        public static void Executar()
+        public static void Run()
         {
             var sqlCn = DbFactory.Database(DataBase.SqlServer)
                                  .CreateConnector("myCS")

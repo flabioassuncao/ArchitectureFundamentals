@@ -1,7 +1,13 @@
 ﻿using System;
 using DesignPatterns.AbstractFactory;
+using DesignPatterns.Adapter;
+using DesignPatterns.Command;
+using DesignPatterns.Composite;
+using DesignPatterns.Facade;
 using DesignPatterns.FactoryMethod;
+using DesignPatterns.Observable;
 using DesignPatterns.Singleton;
+using DesignPatterns.Strategy;
 
 namespace DesignPatterns
 {
@@ -9,7 +15,7 @@ namespace DesignPatterns
     {
         private static void Main()
         {
-            Console.WriteLine("Escolha a operação:");
+            Console.WriteLine("Choose the operation:");
             Console.WriteLine("------------------------");
             Console.WriteLine("Creational Patterns");
             Console.WriteLine("------------------------");
@@ -39,32 +45,32 @@ namespace DesignPatterns
             switch (opcao.KeyChar)
             {
                 case '1':
-                    ExecutionAbstractFactory.Executar();
+                    ExecutionAbstractFactory.Run();
                     break;
                 case '2':
-                    ExecutionFactoryMethod.Executar();
+                    ExecutionFactoryMethod.Run();
                     break;
                 case '3':
-                    ExecutionSingleton.Executar();
+                    ExecutionSingleton.Run();
                     break;
-                    //case '4':
-                    //    ExecutionAdapter.Executar();
-                    //    break;
-                    //case '5':
-                    //    ExecutionFacade.Executar();
-                    //    break;
-                    //case '6':
-                    //    ExecutionComposite.Executar();
-                    //    break;
-                    //case '7':
-                    //    ExecutionCommand.Executar();
-                    //    break;
-                    //case '8':
-                    //    ExecutionStrategy.Executar();
-                    //    break;
-                    //case '9':
-                    //    ExecutionObserver.Executar();
-                    //    break;
+                case '4':
+                    ExecutionAdapter.Run();
+                    break;
+                case '5':
+                    ExecutionFacade.Run();
+                    break;
+                case '6':
+                    ExecutionComposite.Run();
+                    break;
+                case '7':
+                    ExecutionCommand.Run();
+                    break;
+                case '8':
+                    ExecutionStrategy.Run();
+                    break;
+                case '9':
+                    ExecutionObserver.Run();
+                    break;
             }
 
             Console.ReadKey();

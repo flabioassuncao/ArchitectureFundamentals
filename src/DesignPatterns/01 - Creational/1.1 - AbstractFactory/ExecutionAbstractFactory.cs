@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace DesignPatterns.AbstractFactory
 {
     class ExecutionAbstractFactory
     {
-        public static void Executar()
+        public static void Run()
         {
             var veiculosSocorro = new List<Vehicle>
             {

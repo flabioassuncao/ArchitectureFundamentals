@@ -6,7 +6,7 @@ namespace DesignPatterns.Singleton
 {
     public class ExecutionSingleton
     {
-        public static void Executar()
+        public static void Run()
         {
             var b1 = LoadBalancer.GetLoadBalancer();
             var b2 = LoadBalancer.GetLoadBalancer();
